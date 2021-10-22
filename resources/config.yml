@@ -1,0 +1,14 @@
+loop:
+  sec: 1
+ocr:
+  compass:
+    w: 60
+    h: 30
+    x: 230
+    y: 10
+  location:
+    w: 40
+    h: 40
+    x: 40
+    y: 40
+log_lvl: DEBUG
