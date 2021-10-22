@@ -4,6 +4,9 @@
 * resolución 1920x1080, contraste y brillo por defecto
 * activa la visualización de los FPS para que se muestren las coordenadas del personaje
 
+# Instalacion
+* Descomprime la carpeta /tesseract/x64.zip para que quede como /tesseract/x64/*
+
 # Guia de uso
 * Indica las posiciones correctas para la detección de la brujula del juego
 * Indica las posiciones correctas para la detección de las coordenadas (en la esquina superior derecha cuandoa activas los FPS)
